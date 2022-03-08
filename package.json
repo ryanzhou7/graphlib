@@ -1,5 +1,6 @@
 {
   "name": "@ryan/graphlib",
+  "version": "3.3.1",
   "description": "A directed and undirected multi-graph library",
   "author": "Ryan Zhou <ryanzhou7@gmail.com>",
   "license": "MIT",
@@ -14,7 +15,7 @@
     "algorithms"
   ],
   "scripts": {
-    "prepare": "tsc",
+    "prepare": "tsc --build",
     "test": "jest",
     "lint": "eslint 'lib/**/*.?s' 'test/**/*test.?s'",
     "format": "prettier --write 'lib/**/*.?s' 'test/**/*.?s' '*.json' 'test/*.json' 'scripts/**/*.?s'"
@@ -47,6 +48,7 @@
     "ts-node": "^10.2.0",
     "typescript": "~4.3.5"
   },
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/snyk/graphlib.git"
