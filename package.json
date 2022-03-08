@@ -1,5 +1,5 @@
 {
-  "name": "ryanzhou7/graphlib",
+  "name": "@ryanzhou7/graphlib",
   "version": "3.3.1",
   "description": "A directed and undirected multi-graph library",
   "author": "Ryan Zhou <ryanzhou7@gmail.com>",
