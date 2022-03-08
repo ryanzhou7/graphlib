@@ -1,6 +1,6 @@
 {
   "name": "@ryanzhou/graphlib",
-  "version": "0.0.1",
+  "version": "3.3.0",
   "description": "A directed and undirected multi-graph library",
   "author": "Ryan Zhou <ryanzhou7@gmail.com>",
   "license": "MIT",
