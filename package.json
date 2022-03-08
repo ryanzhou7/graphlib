@@ -1,7 +1,7 @@
 {
-  "name": "@snyk/graphlib",
+  "name": "@ryan/graphlib",
   "description": "A directed and undirected multi-graph library",
-  "author": "Chris Pettitt <cpettitt@gmail.com>",
+  "author": "Ryan Zhou <ryanzhou7@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
