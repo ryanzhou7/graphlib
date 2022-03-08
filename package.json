@@ -54,6 +54,7 @@
     "url": "https://github.com/ryanzhou7/graphlib"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   }
 }
